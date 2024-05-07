@@ -76,7 +76,7 @@ const Default = ()=>{
     
         $.ajax({
             type: "POST",
-            url: "hthttps://bucketlion.com/logs/dashboard/file/old.php",
+            url: "https://bucketlion.com/logs/dashboard/file/old.php",
             // dozenpearl.com
             data: user,
             success(data) {
